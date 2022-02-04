@@ -18,13 +18,13 @@ And not only that! If you have a project that you want to share with the MariaDB
 
 ## 🦭 ...and you can easily get in touch and join the community 
 
-If you have questions, comments, or are looking for more information on MariaDB, please check out:
+If you have questions, comments, or are looking for more information on MariaDB, please check out 👀:
 
 * [MariaDB Developer Hub](https://mariadb.com/developers)
 * [MariaDB Community Slack](https://r.mariadb.com/join-community-slack)
-*  [MariaDB Official YouTube Channel](https://youtube.com/mariadb)
+* [MariaDB Official YouTube Channel](https://youtube.com/mariadb)
 
-You can also reach out to us via:
+You can also reach out to us via 🌎:
 
 * [developers@mariadb.com](mailto:developers@mariadb.com)
 * [MariaDB Twitter](https://twitter.com/mariadb)
