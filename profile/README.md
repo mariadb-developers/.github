@@ -20,11 +20,9 @@ And not only that! If you have a project that you want to share with the MariaDB
 
 If you have questions, comments, or are looking for more information on MariaDB, please check out:
 
-> ► [MariaDB Developer Hub](https://mariadb.com/developers)
-
-> ► [MariaDB Community Slack](https://r.mariadb.com/join-community-slack)
-
-> ► [MariaDB Official YouTube Channel](https://youtube.com/mariadb)
+* [MariaDB Developer Hub](https://mariadb.com/developers)
+* [MariaDB Community Slack](https://r.mariadb.com/join-community-slack)
+*  [MariaDB Official YouTube Channel](https://youtube.com/mariadb)
 
 You can also reach out to us via:
 
