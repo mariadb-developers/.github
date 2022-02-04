@@ -2,7 +2,7 @@
 
 Here you'll find developer **code samples** using the vast variety of [MariaDB database](https://mariadb.com) features and functionality!
 
-![Tux, the Linux mascot](mariadb-banner.png)
+![MariaDB Sea Lion](./mariadb-banner.png)
 
 ## 💻 A space dedicated to developers...
 
