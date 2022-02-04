@@ -2,7 +2,7 @@
 
 Here you'll find developer **code samples** using the vast variety of [MariaDB database](https://mariadb.com) features and functionality!
 
-![MariaDB Sea Lion](./mariadb-banner.png)
+![MariaDB Sea Lion](https://raw.githubusercontent.com/mariadb-developers/.github/9486d19fc2506ae823579a39f2256f8376492702/profile/mariadb-banner.png)
 
 ## 💻 A space dedicated to developers...
 
