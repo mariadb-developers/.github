@@ -29,7 +29,6 @@ You can also reach out to us via 🌎:
 * [developers@mariadb.com](mailto:developers@mariadb.com)
 * [MariaDB Twitter](https://twitter.com/mariadb)
 
-Or contact the Developer Advocates directly (they will be happy to hear from you 😊):
+Or contact the MariaDB Developer Advocates directly (they will be happy to hear from you 😊):
 
-* Rob Hedgpeth: [Twitter](https://twitter.com/probablyrealrob) | [Website](https://probablyrealrob.com)
 * Alejandro Duarte: [Twitter](https://twitter.com/alejandro_du) | [Website](https://www.programmingbrain.com)
