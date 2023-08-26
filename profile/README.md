@@ -1,3 +1,4 @@
+README
 # Hey, welcome to MariaDB 👋
 
 Here you'll find developer **code samples** using the vast variety of [MariaDB database](https://mariadb.com) features and functionality!
@@ -31,4 +32,4 @@ You can also reach out to us via 🌎:
 
 Or contact the MariaDB Developer Advocates directly (they will be happy to hear from you 😊):
 
-* Alejandro Duarte: [Twitter](https://twitter.com/alejandro_du) | [Website](https://www.programmingbrain.com)
+* Alejandro Duarte: [Twitter](https://twitter.com/alejandro_du) | [Website](https://www.programmingbrain.com)@MAIN.md
